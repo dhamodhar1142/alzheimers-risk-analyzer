@@ -1,0 +1,11 @@
+Age,Gender,BMI,Smoking,AlcoholConsumption,PhysicalActivity,DietQuality,SleepQuality,FamilyHistoryAlzheimers,CardiovascularDisease,Diabetes,Depression,HeadInjury,Hypertension,SystolicBP,DiastolicBP,CholesterolTotal,CholesterolLDL,CholesterolHDL,CholesterolTriglycerides,MMSE,FunctionalAssessment,MemoryComplaints,BehavioralProblems,ADL,Confusion,Disorientation,PersonalityChanges,DifficultyCompletingTasks,Forgetfulness,Diagnosis
+65,0,28.5,1,5,3,7,6,0,0,1,0,0,1,140,85,220,150,45,200,26,8,1,0,5,0,0,0,1,1,0
+72,1,32.1,0,10,2,5,5,1,1,0,1,0,1,160,90,240,180,40,250,22,6,1,1,4,1,1,1,1,1,1
+58,0,25.3,0,2,7,8,7,0,0,0,0,0,0,120,75,200,110,55,150,29,9,0,0,9,0,0,0,0,0,0
+78,1,30.8,1,15,1,4,4,1,1,1,0,1,1,175,95,260,190,38,280,20,5,1,1,3,1,1,1,1,1,1
+63,0,27.2,0,0,5,7,8,0,0,0,0,0,0,125,80,210,120,50,180,28,9,0,0,8,0,0,0,0,0,0
+70,1,29.5,1,8,4,6,6,1,0,1,1,0,1,155,88,235,170,42,230,24,7,1,0,6,0,1,0,1,1,0
+55,0,24.8,0,3,6,8,7,0,0,0,0,0,0,118,72,195,105,58,140,30,10,0,0,10,0,0,0,0,0,0
+75,1,31.5,1,12,2,5,5,1,1,0,1,1,1,168,92,255,185,39,270,21,5,1,1,4,1,1,1,1,1,1
+60,0,26.7,0,4,5,7,7,0,0,1,0,0,0,130,78,215,125,52,190,27,8,0,0,7,0,0,0,0,0,0
+68,1,30.2,1,10,3,6,6,1,1,1,0,0,1,162,89,245,175,41,240,23,6,1,1,5,1,0,1,1,1,1
